@@ -6,4 +6,4 @@ I do not own any of the resources, unless stated otherwise.
 
 ## Fonts
 
-Anonymous Pro
+JetBrains Mono
