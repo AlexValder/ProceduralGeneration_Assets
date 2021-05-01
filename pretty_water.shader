@@ -3,8 +3,6 @@
     Anime Water Surface Shader by @arlez80
 
     MIT License
-
-    Updated by @AlexValder
 */
 
 shader_type spatial;
