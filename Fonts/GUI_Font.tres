@@ -1,7 +1,9 @@
 [gd_resource type="DynamicFont" load_steps=2 format=2]
 
-[sub_resource type="DynamicFontData" id=1]
+[sub_resource type="DynamicFontData" id=8]
 font_path = "res://Resources/Fonts/font.ttf"
 
 [resource]
-font_data = SubResource( 1 )
+use_mipmaps = true
+use_filter = true
+font_data = SubResource( 8 )
