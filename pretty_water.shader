@@ -6,7 +6,6 @@
 */
 
 shader_type spatial;
-render_mode unshaded;
 
 uniform vec2 speed = vec2( 1.0, 1.0 );
 uniform float voronoi_scale = 18.0;
